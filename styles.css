@@ -1,0 +1,27 @@
+body{
+    background-color: #14279B;
+    color: #FFF;
+}
+
+.container{
+    display: flex;
+    padding: 20px;
+    margin-top: 200px;
+    justify-content: space-evenly;
+}
+
+ul{
+    list-style: none;
+    padding: 10px;
+    text-align: center;
+}
+
+li{
+    margin: 20px 0;
+}
+
+.data{
+    font-size: 25px;
+    font-weight: 700;
+    color: burlywood;
+}
